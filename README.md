@@ -4,7 +4,7 @@ Thanks to Jaemin from Import Data for this feature! (https://github.com/importda
 
 And to Ken Jee as well! (https://github.com/PlayingNumbers/PlayingNumbers)
 
-<h2>Feel free to reach out📫:</h2>
+<h2>Feel free to reach out📫😄:</h2>
 
 <a href="https://www.linkedin.com/in/mark-jason-egipto-46a18a65/" target="_blank"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="Linkedin Icon" width="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/jasonegipto" target="_blank"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="Kaggle Icon" width="60"/></a>
   
