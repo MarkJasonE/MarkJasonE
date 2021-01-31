@@ -1,4 +1,4 @@
-<h1>Hi!👋 Thanks for visiting my Github profile!</h1>
+<h1>Hey!👋 Thanks for visiting my Github profile!</h1>
 
 Thanks to Jaemin from Import Data for this feature! (https://github.com/importdata/importdata) 
 
