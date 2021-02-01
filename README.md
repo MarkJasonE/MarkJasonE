@@ -6,7 +6,7 @@
 
 <h4>Alas, after finishing my degree I had this itching sensation in my psyche that grew stronger everyday. That's when I decided to teach myself how to code. Like every journey in life, it started with humble beginings - with alot of debugging and scanning the forums for answeres. Working full-time as a restaurant manager while teaching myself to code wasn't ideal. But after 6 months (give or take a month or two), I managed to get my first job as a front end developer.</h4>
 
-<h4>That was on 2018. And after 2.6 years I decided that it was time to start a new journey in the field of artificial intelligence.</h4>
+<h4>That was on 2018. And after 2.6 years I decided that it was time to put on my autodidact:ninja: hat and start a new journey in the field of artificial intelligence.</h4>
 
 <h4>Alas, if you read up until here you're a real champ!😄</h4>
 <h4>Welcome to my :octocat:Github! You'll primaraly see:</h4> 
