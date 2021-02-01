@@ -16,9 +16,9 @@
 <br>
 <br>
 
-Thanks to Jaemin from Import Data for this feature! (https://github.com/importdata/importdata) 
+Thanks to Jaemin from Import Data for this feature!:pray: (https://github.com/importdata/importdata) 
 
-And to Ken Jee as well! (https://github.com/PlayingNumbers/PlayingNumbers)
+And to Ken Jee as well!:pray: (https://github.com/PlayingNumbers/PlayingNumbers)
 
 <h2>Feel free to reach out📫😄:</h2>
 
