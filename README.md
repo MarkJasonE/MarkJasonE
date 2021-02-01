@@ -1,5 +1,9 @@
 <h1>Hey!👋 Thanks for visiting my Github profile!</h1>
 
+<h2>People start coding for a variety of reasons. For me it was when I played video games as a kid, specifically: Age Of Empires, Diablo, Warcraft, Starcraft. I wanted to dig deeper on the who, how, what, where, why. Ultimately those questions flowed like water from my interest of games to my interest of people.
+  
+These two interests planted deep roots into the way I think and how I see the world. It was like yesterday where I saw myself as a kid playing my video games. Then came college, where I needed to decide between computer science and psychology. Finally, I choose psychology because I wanted to better understand myself and my limits and potential.</h2>
+
 Thanks to Jaemin from Import Data for this feature! (https://github.com/importdata/importdata) 
 
 And to Ken Jee as well! (https://github.com/PlayingNumbers/PlayingNumbers)
