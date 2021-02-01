@@ -4,6 +4,13 @@
   
 <h3>These two interests planted deep roots into the way I think and how I see the world. It was like yesterday where I saw myself as a kid playing my video games. Then came college, where I needed to decide between computer science and psychology. Finally, I choose psychology because I wanted to better understand myself and my limits and potential.</h3>
 
+<h3>Alas, after finishing my degree I had this itching sensation in my psyche that grew stronger everyday. That's when I decided to teach myself how to code. Like every journey in life, it started with humble beginings - with alot of debugging and scanning the forums for answeres. Working full-time as a restaurant manager while teaching myself to code wasn't ideal. But after 6 months (give or take a month or two), I managed to get my first job as a front end developer.</h3>
+
+<h3>That was on 2018. And after 2.6 years I decided that it was time to start a new journey in the field of artificial intelligence.</h3>
+
+<h3>Alas, if you read up until here you're a real champ!😄</h3>
+<h3>Welcome to my Github! You'll primaraly see <bold>projects about AI</bold> and the relevant technology stacks associated with it. Perhaps even <bold>web projects</bold>, just to brush up my skills and not get too rusty.</h3>
+
 Thanks to Jaemin from Import Data for this feature! (https://github.com/importdata/importdata) 
 
 And to Ken Jee as well! (https://github.com/PlayingNumbers/PlayingNumbers)
