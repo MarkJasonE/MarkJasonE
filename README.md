@@ -9,7 +9,9 @@
 <h4>That was on 2018. And after 2.6 years I decided that it was time to start a new journey in the field of artificial intelligence.</h4>
 
 <h4>Alas, if you read up until here you're a real champ!😄</h4>
-<h4>Welcome to my Github! You'll primaraly see <h3>projects about AI</h3> and the relevant technology stacks associated with it. Perhaps even <h3>web projects</h3>, just to brush up my skills and not get too rusty.</h4>
+<h4>Welcome to my Github! You'll primaraly see:</h4> 
+<h3>projects about AI and the relevant technology stacks associated with it.</h3> 
+<h3>Perhaps even web projects, just to brush up my skills and not get too rusty.</h3>
 
 Thanks to Jaemin from Import Data for this feature! (https://github.com/importdata/importdata) 
 
