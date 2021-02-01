@@ -1,16 +1,16 @@
-<h1>Hey!👋 Thanks for visiting my Github profile!</h1>
+<h1>Hey!👋 Thanks for visiting my :octocat:Github profile!</h1>
 
 <h4>People start coding for a variety of reasons. For me it was when I played video games as a kid, specifically: Age Of Empires, Diablo, Warcraft, Starcraft. I wanted to dig deeper on the who, how, what, where, why. Ultimately those questions flowed like water from my interest of games to my interest of people.</h4>
   
-<h4>These two interests planted deep roots into the way I think and how I see the world. It was like yesterday where I saw myself as a kid playing my video games. Then came college, where I needed to decide between computer science and psychology. Finally, I choose psychology because I wanted to better understand myself and my limits and potential.</h4>
+<h4>These two interests planted deep roots into the way I think and how I see the world. It was like yesterday where I saw myself as a kid playing my video games. Then came college, where I needed to decide between computer science:robot: and psychology:brain:. Finally, I choose psychology because I wanted to better understand myself and my limits and potential.</h4>
 
 <h4>Alas, after finishing my degree I had this itching sensation in my psyche that grew stronger everyday. That's when I decided to teach myself how to code. Like every journey in life, it started with humble beginings - with alot of debugging and scanning the forums for answeres. Working full-time as a restaurant manager while teaching myself to code wasn't ideal. But after 6 months (give or take a month or two), I managed to get my first job as a front end developer.</h4>
 
 <h4>That was on 2018. And after 2.6 years I decided that it was time to start a new journey in the field of artificial intelligence.</h4>
 
 <h4>Alas, if you read up until here you're a real champ!😄</h4>
-<h4>Welcome to my Github! You'll primaraly see:</h4> 
-<h3>projects about AI and the relevant technology stacks associated with it.</h3> 
+<h4>Welcome to my :octocat:Github! You'll primaraly see:</h4> 
+<h3>Projects about AI and the relevant technology stacks associated with it.</h3> 
 <h3>Perhaps even web projects, just to brush up my skills and not get too rusty.</h3>
 
 <br>
