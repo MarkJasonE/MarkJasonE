@@ -1,6 +1,6 @@
 <h1>Hey!👋 Welcome to my Github!:octocat: You'll primaraly see:</h1>
 
-<h3>Projects about AI and the relevant technology stacks associated with it.</h3> 
+<h3>Projects in data science, machine learning and deep learning.</h3> 
 <h3>Perhaps even web projects, just to brush up my skills and not get too rusty.</h3>
 
 <br>
