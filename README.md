@@ -8,10 +8,10 @@ Thanks to Ken Jee for this feature :pray: (https://github.com/PlayingNumbers/Pla
 
 <h2>Feel free to reach out📫😄:</h2>
 
-<a href="https://www.linkedin.com/in/mark-jason-egipto/" target="_blank"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="Linkedin Icon" width="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/jasonegipto" target="_blank"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="Kaggle Icon" width="60"/></a>
+<a href="https://www.linkedin.com/in/mark-jason-egipto/" target="_blank"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="Linkedin Icon" width="80"/></a>
   
 <!-- <a href="https://www.youtube.com/c/ImportData1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@importdata"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/> -->
-<!-- <a href="https://twitter.com/ImportData1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/> -->
+<!-- <a href="https://twitter.com/ImportData1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/jasonegipto" target="_blank"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="Kaggle Icon" width="60"/></a> -->
 
 <!--
 **MarkJasonE/MarkJasonE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
