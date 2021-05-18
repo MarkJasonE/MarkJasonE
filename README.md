@@ -1,14 +1,11 @@
 <h1>Hey!👋 Welcome to my Github!:octocat: You'll primaraly see:</h1>
 
-<h3>Projects in data science, machine learning and deep learning.</h3> 
-<h3>Perhaps even web projects, just to brush up my skills and not get too rusty.</h3>
+<h3>Projects about data science, machine learning and deep learning and web development</h3> 
 
 <br>
 <br>
 
-Thanks to Jaemin from Import Data for this feature!:pray: (https://github.com/importdata/importdata) 
-
-And to Ken Jee as well!:pray: (https://github.com/PlayingNumbers/PlayingNumbers)
+Thanks to Ken Jee for this feature :pray: (https://github.com/PlayingNumbers/PlayingNumbers)
 
 <h2>Feel free to reach out📫😄:</h2>
 
