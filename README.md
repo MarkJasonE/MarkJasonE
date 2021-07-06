@@ -1,6 +1,6 @@
 <h1>Hey!👋 Welcome to my Github!:octocat: You'll primaraly see:</h1>
 
-<h3>Projects about data science, machine learning, deep learning and web development</h3> 
+<h3>Projects about data science and web development</h3> 
 
 <br>
 <br>
