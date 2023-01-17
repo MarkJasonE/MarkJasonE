@@ -4,7 +4,6 @@
 
 <br>
 <br>
-Thanks to Ken Jee for this feature :pray: (https://github.com/PlayingNumbers/PlayingNumbers)
 
 <h2>Feel free to reach out📫😄:</h2>
 
